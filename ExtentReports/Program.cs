@@ -10,6 +10,7 @@ namespace ExtentReports
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("this is my first program");
         }
     }
 }
